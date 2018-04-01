@@ -1,13 +1,9 @@
 $(function(){
   var participant = [
-  	{ value: 'Nihit Jain (nihit.jain_cs16@gla.ac.in)', data: '<a href="/sheero/certi/adm/sample.pdf">Download</a>'},
-  	{ value: 'Atul Kumar Maurya (nihit.jain_cs16@gla.ac.in)', data: '<a href="/certi/adm/sample.pdf">Download</a>'},
-  	{ value: 'Divyansh Srivastava (nihit.jain_cs16@gla.ac.in)', data: '<a href="/certi/adm/sample.pdf">Download</a>'},
-  	{ value: 'Aman Anand (nihit.jain_cs16@gla.ac.in)', data: '<a href="/certi/adm/sample.pdf">Download</a>'},
-  	{ value: 'Rajiv Kumar Yadav (nihit.jain_cs16@gla.ac.in)', data: '<a href="/certi/adm/sample.pdf">Download</a>'},
-  	{ value: 'Brijesh Mishra (nihit.jain_cs16@gla.ac.in)', data: '<a href="/certi/adm/sample.pdf">Download</a>'},
-  	{ value: 'Tarun Garg (nihit.jain_cs16@gla.ac.in)', data: '<a href="/certi/adm/sample.pdf">Download</a>'},
-  	];
+  	{ value: 'Nihit Jain | nihit.jain_cs16@gla.ac.in', data: '<a href="/sheero/certi/adm/sample.pdf" target="_blank" download="sample.pdf">Download</a>'},
+    { value: 'Name | email', data: '<a href="/complete/link/to/certificate.pdf" target="_blank">Download</a>'},
+    { value: 'Dummy Name (dummy@email.com)', data: '<a href="/dummy/link/to/certificate.pdf" download="FILE_NAME">Download</a>'}
+    ];
   
   // setup autocomplete function pulling from currencies[] array
   $('#autocomplete').autocomplete({
