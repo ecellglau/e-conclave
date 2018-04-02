@@ -1,4 +1,4 @@
-# E-Conclave'18 Certiicate Download Portal
+# E-Conclave'18 Certificate Download Portal
 
 ## About/Introduction
 
