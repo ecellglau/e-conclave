@@ -36,7 +36,7 @@ $(function(){
     { value: 'Kumar Divyansh | B-Plan', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/achievers/TBP10.pdf" target="_blank" download="TBP10.pdf">Download</a>'},
     { value: 'Suyash Dixit | B-Plan', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/achievers/TBP4.pdf" target="_blank" download="TBP4.pdf">Download</a>'},
     { value: 'Nishtha Gupta | B-Plan', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/achievers/TBP5.pdf" target="_blank" download="TBP5.pdf">Download</a>'},
-    { value: 'Yshika Agrawal | B-Plan', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/achievers/TBP6.pdf" target="_blank" download="TBP6.pdf">Download</a>'},
+    { value: 'Yshika Agarwal | B-Plan', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/achievers/TBP6.pdf" target="_blank" download="TBP6.pdf">Download</a>'},
     { value: 'Saurabh Singh | B-Plan', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/achievers/TBP7.pdf" target="_blank" download="TBP7.pdf">Download</a>'},
     ];
   
