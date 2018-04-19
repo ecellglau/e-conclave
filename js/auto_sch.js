@@ -28,12 +28,12 @@ $(function(){
     { value: 'Kapil Yadav | NA', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/sch/26.pdf" target="_blank" download="26.pdf">Download</a>'},
     { value: 'Abhay Singh | NA', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/sch/27.pdf" target="_blank" download="27.pdf">Download</a>'},
     { value: 'Tushar Chaudary | NA', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/sch/28.pdf" target="_blank" download="28.pdf">Download</a>'},
-    { value: 'Nancy Gupta | ', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/sch/1_1.pdf" target="_blank" download="1_1.pdf">Download</a>'},
-    { value: 'Aman Mittal | ', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/sch/2_1.pdf" target="_blank" download="2_1.pdf">Download</a>'},
-    { value: 'Harshit Khare | ', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/sch/3_1.pdf" target="_blank" download="3_1.pdf">Download</a>'},
-    { value: 'Chandra Prakash | ', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/sch/4_1.pdf" target="_blank" download="4_1.pdf">Download</a>'},
-    { value: 'Mayank Pathak | ', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/sch/5_1.pdf" target="_blank" download="5_1.pdf">Download</a>'},
-    { value: 'Krishna Chandra | ', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/sch/6_1.pdf" target="_blank" download="6_1.pdf">Download</a>'},
+    { value: 'Nancy Gupta | nancy.gupta@gla.ac.in', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/sch/1_1.pdf" target="_blank" download="1_1.pdf">Download</a>'},
+    { value: 'Aman Mittal | ujjawalmittal32@gmail.com', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/sch/2_1.pdf" target="_blank" download="2_1.pdf">Download</a>'},
+    { value: 'Harshit Khare | harshitkhare13@gmail.com', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/sch/3_1.pdf" target="_blank" download="3_1.pdf">Download</a>'},
+    { value: 'Chandra Prakash | chandra.prakash_cs16@gla.ac.in', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/sch/4_1.pdf" target="_blank" download="4_1.pdf">Download</a>'},
+    { value: 'Mayank Pathak | mayank.pathak_cs16@gla.ac.in', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/sch/5_1.pdf" target="_blank" download="5_1.pdf">Download</a>'},
+    { value: 'Krishna Chandra | krishna.chandra_bca16@gla.ac.in', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/sch/6_1.pdf" target="_blank" download="6_1.pdf">Download</a>'},
     ];
   
   // setup autocomplete function pulling from currencies[] array
