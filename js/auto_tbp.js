@@ -13,6 +13,15 @@ $(function(){
     { value: 'Abhishek Narain Singh | abhishek.singh_cs15@gla.ac.in', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/tbp/11.pdf" target="_blank" download="11.pdf">Download</a>'},
     { value: 'Pranjal Saxena | pranjal.saxena2012@gmail.com', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/tbp/12.pdf" target="_blank" download="12.pdf">Download</a>'},
     { value: 'Sumit Jha | NA', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/tbp/13.pdf" target="_blank" download="13.pdf">Download</a>'},
+    { value: 'Yshika Agarwal | ', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/tbp/1_1.pdf" target="_blank" download="1_1.pdf">Download</a>'},
+    { value: 'Nancy Gupta | ', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/tbp/2_1.pdf" target="_blank" download="2_1.pdf">Download</a>'},
+    { value: 'Sourabh Singh | ', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/tbp/3_1.pdf" target="_blank" download="3_1.pdf">Download</a>'},
+    { value: 'Utkarsh Jain | ', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/tbp/4_1.pdf" target="_blank" download="4_1.pdf">Download</a>'},
+    { value: 'Harsh Chaudhary | ', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/tbp/5_1.pdf" target="_blank" download="5_1.pdf">Download</a>'},
+    { value: 'Raman Yaduvanshi | ', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/tbp/6_1.pdf" target="_blank" download="6_1.pdf">Download</a>'},
+    { value: 'Sparsh Rastogi | ', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/tbp/7_1.pdf" target="_blank" download="7_1.pdf">Download</a>'},
+    { value: 'Ritik Kumar | ', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/tbp/8_1.pdf" target="_blank" download="8_1.pdf">Download</a>'},
+    { value: 'Rahul Kumar Singh | ', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/tbp/9_1.pdf" target="_blank" download="9_1.pdf">Download</a>'},
     ];
   
   // setup autocomplete function pulling from currencies[] array

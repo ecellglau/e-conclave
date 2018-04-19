@@ -46,6 +46,17 @@ $(function(){
     { value: 'Puneet Shailza | NA', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/50v/44.pdf" target="_blank" download="44.pdf">Download</a>'},
     { value: 'Gaurangi Agrawal | NA', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/50v/45.pdf" target="_blank" download="45.pdf">Download</a>'},
     { value: 'Vinay Sharma | NA', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/50v/46.pdf" target="_blank" download="46.pdf">Download</a>'},
+    { value: 'Meenal Singhal | ', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/50v/1_1.pdf" target="_blank" download="1_1.pdf">Download</a>'},
+    { value: 'Shubham Gupta | ', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/50v/2_1.pdf" target="_blank" download="2_1.pdf">Download</a>'},
+    { value: 'Shahaban Ali | ', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/50v/3_1.pdf" target="_blank" download="3_1.pdf">Download</a>'},
+    { value: 'Khushboo Agrawal | ', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/50v/4_1.pdf" target="_blank" download="4_1.pdf">Download</a>'},
+    { value: 'Kapil Chaudhary | ', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/50v/5_1.pdf" target="_blank" download="5_1.pdf">Download</a>'},
+    { value: 'Prapti Jain | ', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/50v/6_1.pdf" target="_blank" download="6_1.pdf">Download</a>'},
+    { value: 'Sanskar Verma | ', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/50v/7_1.pdf" target="_blank" download="7_1.pdf">Download</a>'},
+    { value: 'Somya Agrawal | ', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/50v/8_1.pdf" target="_blank" download="8_1.pdf">Download</a>'},
+    { value: 'Kapil Yadav | ', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/50v/9_1.pdf" target="_blank" download="9_1.pdf">Download</a>'},
+    { value: 'Nitanshi Mittal | ', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/50v/10_1.pdf" target="_blank" download="10_1.pdf">Download</a>'},
+    { value: 'Sureeti Gupta | ', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/50v/11_1.pdf" target="_blank" download="11_1.pdf">Download</a>'},
     ];
   
   // setup autocomplete function pulling from currencies[] array

@@ -58,6 +58,12 @@ $(function(){
     { value: 'Prayga Tiwary | NA', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/lgb/56.pdf" target="_blank" download="56.pdf">Download</a>'},
     { value: 'Shatulya Rastogi | NA', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/lgb/57.pdf" target="_blank" download="57.pdf">Download</a>'},
     { value: 'Shobhit Katrauliya | NA', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/lgb/58.pdf" target="_blank" download="58.pdf">Download</a>'},
+    { value: 'Nancy Gupta | ', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/lgb/1_1.pdf" target="_blank" download="1_1.pdf">Download</a>'},
+    { value: 'Shail Gupta | ', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/lgb/2_1.pdf" target="_blank" download="2_1.pdf">Download</a>'},
+    { value: 'Abhay Singh | ', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/lgb/3_1.pdf" target="_blank" download="3_1.pdf">Download</a>'},
+    { value: 'Parag Goyal | ', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/lgb/4_1.pdf" target="_blank" download="4_1.pdf">Download</a>'},
+    { value: 'Shiva Tandon | ', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/lgb/5_1.pdf" target="_blank" download="5_1.pdf">Download</a>'},
+    { value: 'Anjali Soni | ', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/lgb/6_1.pdf" target="_blank" download="6_1.pdf">Download</a>'},
     ];
   
   // setup autocomplete function pulling from currencies[] array

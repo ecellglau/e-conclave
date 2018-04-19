@@ -27,6 +27,8 @@ $(function(){
     { value: 'Alfiza | NA', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/adm/25.pdf" target="_blank" download="25.pdf">Download</a>'},
     { value: 'Prashant Prajapti | NA', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/adm/26.pdf" target="_blank" download="26.pdf">Download</a>'},
     { value: 'Somya Agrawal | NA', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/adm/27.pdf" target="_blank" download="27.pdf">Download</a>'},
+    { value: 'Nancy Gupta | ', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/adm/1_1.pdf" target="_blank" download="1_1.pdf">Download</a>'},
+    { value: 'Priya Agrawal | ', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/adm/2_1.pdf" target="_blank" download="2_1.pdf">Download</a>'},
     ];
   
   // setup autocomplete function pulling from currencies[] array

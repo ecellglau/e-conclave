@@ -56,6 +56,16 @@ $(function(){
     { value: 'Gaurav Sharma | gauravmadhav9@gmail.com', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/bog/54.pdf" target="_blank" download="54.pdf">Download</a>'},
     { value: 'Abhishek Singh Tomar | rajattomar97@gmail.com', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/bog/55.pdf" target="_blank" download="55.pdf">Download</a>'},
     { value: 'Umang Mittal | NA', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/bog/56.pdf" target="_blank" download="56.pdf">Download</a>'},
+    { value: 'Nancy Gupta | ', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/bog/1_1.pdf" target="_blank" download="1_1.pdf">Download</a>'},
+    { value: 'Shahaban Ali | ', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/bog/2_1.pdf" target="_blank" download="2_1.pdf">Download</a>'},
+    { value: 'Chandra Prakash | ', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/bog/3_1.pdf" target="_blank" download="3_1.pdf">Download</a>'},
+    { value: 'Shail Gupta | ', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/bog/4_1.pdf" target="_blank" download="4_1.pdf">Download</a>'},
+    { value: 'Gauri Goswami | ', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/bog/5_1.pdf" target="_blank" download="5_1.pdf">Download</a>'},
+    { value: 'Nitanshi Mittal | ', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/bog/6_1.pdf" target="_blank" download="6_1.pdf">Download</a>'},
+    { value: 'Parag Goyal | ', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/bog/7_1.pdf" target="_blank" download="7_1.pdf">Download</a>'},
+    { value: 'Shruti Maheshwari | ', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/bog/8_1.pdf" target="_blank" download="8_1.pdf">Download</a>'},
+    { value: 'Shiva Tandon | ', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/bog/9_1.pdf" target="_blank" download="9_1.pdf">Download</a>'},
+    { value: 'Anjali Soni | ', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/bog/10_1.pdf" target="_blank" download="10_1.pdf">Download</a>'},
     ];
   
   // setup autocomplete function pulling from currencies[] array
