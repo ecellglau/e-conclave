@@ -29,6 +29,11 @@ $(function(){
     { value: 'Somya Agrawal | NA', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/adm/27.pdf" target="_blank" download="27.pdf">Download</a>'},
     { value: 'Nancy Gupta | nancy.gupta@gla.ac.in', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/adm/1_1.pdf" target="_blank" download="1_1.pdf">Download</a>'},
     { value: 'Priya Agrawal | priya.agrawal_bba17@gla.ac.in', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/adm/2_1.pdf" target="_blank" download="2_1.pdf">Download</a>'},
+    { value: 'Gaurang Sharma | gaurang.sharma_cs16@gla.ac.in', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/adm/1_2.pdf" target="_blank" download="1_2.pdf">Download</a>'},
+    { value: 'Shivangi Tripathi | shivangi.tripathi_cs16@gla.ac.in', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/adm/2_2.pdf" target="_blank" download="2_2.pdf">Download</a>'},
+    { value: 'Samiksha Gupta | samiksha.gupta_cs16@gla.ac.in', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/adm/3_2.pdf" target="_blank" download="3_2.pdf">Download</a>'},
+    { value: 'Vaibhav Arora | vaibhav.arora_bba17@gla.ac.in', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/adm/4_2.pdf" target="_blank" download="4_2.pdf">Download</a>'},
+    { value: 'Meenal Singhal | skyfairymeenalsinghal@gmail.com', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/adm/5_2.pdf" target="_blank" download="5_2.pdf">Download</a>'},
     ];
   
   // setup autocomplete function pulling from currencies[] array

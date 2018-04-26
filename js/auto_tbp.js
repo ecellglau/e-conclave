@@ -22,6 +22,12 @@ $(function(){
     { value: 'Sparsh Rastogi | sparsh.rastogi_dce16@gla.ac.in', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/tbp/7_1.pdf" target="_blank" download="7_1.pdf">Download</a>'},
     { value: 'Ritik Kumar | ritikkumarsingh@outlook.com', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/tbp/8_1.pdf" target="_blank" download="8_1.pdf">Download</a>'},
     { value: 'Rahul Kumar Singh | rahul.singh_cs16@gla.ac.in', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/tbp/9_1.pdf" target="_blank" download="9_1.pdf">Download</a>'},
+    { value: 'Abhishekh Singh Chauhan | aschauhan783@gmail.com', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/tbp/1_2.pdf" target="_blank" download="1_2.pdf">Download</a>'},
+    { value: 'Kartik Hans | kartikhans82@gmail.com', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/tbp/2_2.pdf" target="_blank" download="2_2.pdf">Download</a>'},
+    { value: 'Md Gulshanawar Saifi | sahil.saifi0750@gmail.com', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/tbp/3_2.pdf" target="_blank" download="3_2.pdf">Download</a>'},
+    { value: 'Harshit Pratap Singh | singhharshitpratap1@gmail.com', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/tbp/4_2.pdf" target="_blank" download="4_2.pdf">Download</a>'},
+    { value: 'Meenal Singhal | skyfairymeenalsinghal@gmail.com', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/tbp/5_2.pdf" target="_blank" download="5_2.pdf">Download</a>'},
+    { value: 'Sanskar Maheshwari | sanskar.tata@gmail.com', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/tbp/6_2.pdf" target="_blank" download="6_2.pdf">Download</a>'},
     ];
   
   // setup autocomplete function pulling from currencies[] array

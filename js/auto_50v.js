@@ -47,7 +47,7 @@ $(function(){
     { value: 'Gaurangi Agrawal | NA', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/50v/45.pdf" target="_blank" download="45.pdf">Download</a>'},
     { value: 'Vinay Sharma | NA', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/50v/46.pdf" target="_blank" download="46.pdf">Download</a>'},
     { value: 'Meenal Singhal | skyfairymeenalsinghal@gmail.com', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/50v/1_1.pdf" target="_blank" download="1_1.pdf">Download</a>'},
-    { value: 'Shubham Gupta | gshub16@gmail.com', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/50v/2_1.pdf" target="_blank" download="2_1.pdf">Download</a>'},
+    { value: 'Shubham Gupta | gshub16@gmail.com | shubham.gupta_mba17@gla.ac.in', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/50v/2_1.pdf" target="_blank" download="2_1.pdf">Download</a>'},
     { value: 'Shahaban Ali | shahaban.ali_cs16@gla.ac.in', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/50v/3_1.pdf" target="_blank" download="3_1.pdf">Download</a>'},
     { value: 'Khushboo Agrawal | Khushboo25021998@gmail.com', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/50v/4_1.pdf" target="_blank" download="4_1.pdf">Download</a>'},
     { value: 'Kapil Chaudhary | Chaudharykapil6759@gmail.com', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/50v/5_1.pdf" target="_blank" download="5_1.pdf">Download</a>'},
@@ -57,6 +57,8 @@ $(function(){
     { value: 'Kapil Yadav | kapsydv123@gmail.com', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/50v/9_1.pdf" target="_blank" download="9_1.pdf">Download</a>'},
     { value: 'Nitanshi Mittal | nitanshimittal28@gmail.com', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/50v/10_1.pdf" target="_blank" download="10_1.pdf">Download</a>'},
     { value: 'Sureeti Gupta | sureeti.gupta_mba17@gla.ac.in', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/50v/11_1.pdf" target="_blank" download="11_1.pdf">Download</a>'},
+    { value: 'Aditi Gupta | aditi.gupta_ccv17@gla.ac.in', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/50v/1_2.pdf" target="_blank" download="1_2.pdf">Download</a>'},
+    { value: 'Sumit Kulshrestha | sumit.kulshrestha_bba17@gla.ac.in', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/50v/2_2.pdf" target="_blank" download="2_2.pdf">Download</a>'},
     ];
   
   // setup autocomplete function pulling from currencies[] array
