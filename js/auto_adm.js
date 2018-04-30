@@ -34,6 +34,14 @@ $(function(){
     { value: 'Samiksha Gupta | samiksha.gupta_cs16@gla.ac.in', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/adm/3_2.pdf" target="_blank" download="3_2.pdf">Download</a>'},
     { value: 'Vaibhav Arora | vaibhav.arora_bba17@gla.ac.in', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/adm/4_2.pdf" target="_blank" download="4_2.pdf">Download</a>'},
     { value: 'Meenal Singhal | skyfairymeenalsinghal@gmail.com', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/adm/5_2.pdf" target="_blank" download="5_2.pdf">Download</a>'},
+    { value: 'Shubham Yadav | syadavyadav48@gmail.com', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/adm/1_3.pdf" target="_blank" download="1_3.pdf">Download</a>'},
+    { value: 'B.Sai Chandra Pawan | bsaipawan_cs16@gla.ac.in', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/adm/2_3.pdf" target="_blank" download="2_3.pdf">Download</a>'},
+    { value: 'Rajiv Kumar Yadav | rajiv.yadav_cs16@gla.ac.in', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/adm/3_3.pdf" target="_blank" download="3_3.pdf">Download</a>'},
+    { value: 'Mukul Dubey | mukuldubey2@gmail.com', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/adm/4_3.pdf" target="_blank" download="4_3.pdf">Download</a>'},
+    { value: 'Shivaansh Agarwal | shivaansh.agarwal_cs16@gla.ac.in', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/adm/5_3.pdf" target="_blank" download="5_3.pdf">Download</a>'},
+    { value: 'Himanshu Goyal | himanshu.goyal_cs16@gla.ac.in', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/adm/6_3.pdf" target="_blank" download="6_3.pdf">Download</a>'},
+    { value: 'Abhijeet Katiyar | abhijeet.katiyar_cs16@gla.ac.in', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/adm/7_3.pdf" target="_blank" download="7_3.pdf">Download</a>'},
+    { value: 'Nitanshi Mittal | nianshimittal28@gmail.com', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/adm/8_3.pdf" target="_blank" download="8_3.pdf">Download</a>'},
     ];
   
   // setup autocomplete function pulling from currencies[] array

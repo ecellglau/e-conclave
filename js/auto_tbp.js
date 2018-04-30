@@ -28,6 +28,8 @@ $(function(){
     { value: 'Harshit Pratap Singh | singhharshitpratap1@gmail.com', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/tbp/4_2.pdf" target="_blank" download="4_2.pdf">Download</a>'},
     { value: 'Meenal Singhal | skyfairymeenalsinghal@gmail.com', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/tbp/5_2.pdf" target="_blank" download="5_2.pdf">Download</a>'},
     { value: 'Sanskar Maheshwari | sanskar.tata@gmail.com', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/tbp/6_2.pdf" target="_blank" download="6_2.pdf">Download</a>'},
+    { value: 'Mukul Dubey | mukuldubey2@gmail.com', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/tbp/1_3.pdf" target="_blank" download="1_3.pdf">Download</a>'},
+    { value: 'Nitanshi Mittal | nianshimittal28@gmail.com', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/tbp/2_3.pdf" target="_blank" download="2_3.pdf">Download</a>'},
     ];
   
   // setup autocomplete function pulling from currencies[] array

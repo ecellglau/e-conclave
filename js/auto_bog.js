@@ -72,6 +72,14 @@ $(function(){
     { value: 'Divya Goel | divyagoel0498@gmail.com', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/bog/4_2.pdf" target="_blank" download="4_2.pdf">Download</a>'},
     { value: 'Rishabh Kapoor | kapoorrishabh7991@gmail.com', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/bog/5_2.pdf" target="_blank" download="5_2.pdf">Download</a>'},
     { value: 'Harshit Maheshwari | harshit.karan.RM@gmail.com', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/bog/6_2.pdf" target="_blank" download="6_2.pdf">Download</a>'},
+    { value: 'Shubham Yadav | syadavyadav48@gmail.com', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/bog/1_3.pdf" target="_blank" download="1_3.pdf">Download</a>'},
+    { value: 'B.Sai Chandra Pawan | bsaipawan_cs16@gla.ac.in', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/bog/2_3.pdf" target="_blank" download="2_3.pdf">Download</a>'},
+    { value: 'Rajiv Kumar Yadav | rajiv.yadav_cs16@gla.ac.in', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/bog/3_3.pdf" target="_blank" download="3_3.pdf">Download</a>'},
+    { value: 'Shivaansh Agarwal | shivaansh.agarwal_cs16@gla.ac.in', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/bog/4_3.pdf" target="_blank" download="4_3.pdf">Download</a>'},
+    { value: 'Himanshu Goyal | himanshu.goyal_cs16@gla.ac.in', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/bog/5_3.pdf" target="_blank" download="5_3.pdf">Download</a>'},
+    { value: 'Abhijeet Katiyar | abhijeet.katiyar_cs16@gla.ac.in', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/bog/6_3.pdf" target="_blank" download="6_3.pdf">Download</a>'},
+    { value: 'Nitanshi Mittal | nianshimittal28@gmail.com', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/bog/7_3.pdf" target="_blank" download="7_3.pdf">Download</a>'},
+    { value: 'Harsh Gupta | harsh.gupta_cs16@gla.ac.in', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/bog/8_3.pdf" target="_blank" download="8_3.pdf">Download</a>'},
     ];
   
   // setup autocomplete function pulling from currencies[] array
