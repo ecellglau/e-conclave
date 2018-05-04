@@ -195,10 +195,11 @@ $(function(){
     { value: 'Anubhav Shakya | inbox.anubhavshakya@gmail.com', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/cpr/9_3.pdf" target="_blank" download="9_3.pdf">Download</a>'},
     { value: 'Harsh Gupta | harsh.gupta_cs16@gla.ac.in', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/cpr/10_3.pdf" target="_blank" download="10_3.pdf">Download</a>'},
     { value: 'Shivam Srivastava | shivam.srivastava_bba16@gla.ac.in', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/cpr/1_4.pdf" target="_blank" download="1_4.pdf">Download</a>'},
-{ value: 'Saksham Johri | saksham.johri_ccv17@gla.ac.in', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/cpr/2_4.pdf" target="_blank" download="2_4.pdf">Download</a>'},
-{ value: 'Chaudhary Jagrit Varshney | jagrit.varshney_cs16@gla.ac.in', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/cpr/3_4.pdf" target="_blank" download="3_4.pdf">Download</a>'},
-{ value: 'Anand Kumar | anand.kumar_cs14@gla.ac.in', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/cpr/4_4.pdf" target="_blank" download="4_4.pdf">Download</a>'},
-];
+	{ value: 'Saksham Johri | saksham.johri_ccv17@gla.ac.in', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/cpr/2_4.pdf" target="_blank" download="2_4.pdf">Download</a>'},
+	{ value: 'Chaudhary Jagrit Varshney | jagrit.varshney_cs16@gla.ac.in', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/cpr/3_4.pdf" target="_blank" download="3_4.pdf">Download</a>'},
+	{ value: 'Anand Kumar | anand.kumar_cs14@gla.ac.in', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/cpr/4_4.pdf" target="_blank" download="4_4.pdf">Download</a>'},
+	{ value: 'Nirmal Kumar Savita | nirmal.savita_cs14@gla.ac.in', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/cpr/5_4.pdf" target="_blank" download="5_4.pdf">Download</a>'},
+	];
     
   // setup autocomplete function pulling from currencies[] array
   $('#autocomplete').autocomplete({
