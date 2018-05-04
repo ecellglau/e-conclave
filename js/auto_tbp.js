@@ -30,6 +30,7 @@ $(function(){
     { value: 'Sanskar Maheshwari | sanskar.tata@gmail.com', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/tbp/6_2.pdf" target="_blank" download="6_2.pdf">Download</a>'},
     { value: 'Mukul Dubey | mukuldubey2@gmail.com', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/tbp/1_3.pdf" target="_blank" download="1_3.pdf">Download</a>'},
     { value: 'Nitanshi Mittal | nianshimittal28@gmail.com', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/tbp/2_3.pdf" target="_blank" download="2_3.pdf">Download</a>'},
+    { value: 'Atul Kumar Maurya | atul.maurya_cs16@gla.ac.in', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/tbp/1_4.pdf" target="_blank" download="1_4.pdf">Download</a>'},
     ];
   
   // setup autocomplete function pulling from currencies[] array

@@ -80,6 +80,9 @@ $(function(){
     { value: 'Abhijeet Katiyar | abhijeet.katiyar_cs16@gla.ac.in', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/bog/6_3.pdf" target="_blank" download="6_3.pdf">Download</a>'},
     { value: 'Nitanshi Mittal | nianshimittal28@gmail.com', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/bog/7_3.pdf" target="_blank" download="7_3.pdf">Download</a>'},
     { value: 'Harsh Gupta | harsh.gupta_cs16@gla.ac.in', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/bog/8_3.pdf" target="_blank" download="8_3.pdf">Download</a>'},
+    { value: 'Shivam Srivastava | shivam.srivastava_bba16@gla.ac.in', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/bog/1_4.pdf" target="_blank" download="1_4.pdf">Download</a>'},
+    { value: 'Atul Kumar Maurya | atul.maurya_cs16@gla.ac.in', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/bog/2_4.pdf" target="_blank" download="2_4.pdf">Download</a>'},
+    { value: 'Chaudhary Jagrit Varshney | jagrit.varshney_cs16@gla.ac.in', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/bog/3_4.pdf" target="_blank" download="3_4.pdf">Download</a>'},
     ];
   
   // setup autocomplete function pulling from currencies[] array
