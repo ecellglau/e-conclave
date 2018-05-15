@@ -12,7 +12,7 @@ $(function(){
     { value: 'Mohammad Usman | mohammad.usman_mba16@gla.ac.in', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/tbp/10.pdf" target="_blank" download="10.pdf">Download</a>'},
     { value: 'Abhishek Narain Singh | abhishek.singh_cs15@gla.ac.in', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/tbp/11.pdf" target="_blank" download="11.pdf">Download</a>'},
     { value: 'Pranjal Saxena | pranjal.saxena2012@gmail.com', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/tbp/12.pdf" target="_blank" download="12.pdf">Download</a>'},
-    { value: 'Sumit Jha | NA', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/tbp/13.pdf" target="_blank" download="13.pdf">Download</a>'},
+    { value: 'Sumit Priya Jha | NA', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/tbp/13.pdf" target="_blank" download="13.pdf">Download</a>'},
     { value: 'Yshika Agarwal | yshika0581@gmail.com', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/tbp/1_1.pdf" target="_blank" download="1_1.pdf">Download</a>'},
     { value: 'Nancy Gupta | nancy.gupta@gla.ac.in', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/tbp/2_1.pdf" target="_blank" download="2_1.pdf">Download</a>'},
     { value: 'Sourabh Singh | 100rab2000@gmail.com', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/tbp/3_1.pdf" target="_blank" download="3_1.pdf">Download</a>'},
