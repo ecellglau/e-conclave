@@ -65,6 +65,8 @@ $(function(){
     { value: 'Shivaansh Agarwal | shivaansh.agarwal_cs16@gla.ac.in', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/50v/4_3.pdf" target="_blank" download="4_3.pdf">Download</a>'},
     { value: 'Himanshu Goyal | himanshu.goyal_cs16@gla.ac.in', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/50v/5_3.pdf" target="_blank" download="5_3.pdf">Download</a>'},
     { value: 'Abhijeet Katiyar | abhijeet.katiyar_cs16@gla.ac.in', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/50v/6_3.pdf" target="_blank" download="6_3.pdf">Download</a>'},
+    { value: 'Gauri Goswami | gauri.goswami_bba17@gla.ac.in', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/50v/1_5.pdf" target="_blank" download="1_5.pdf">Download</a>'},
+    { value: 'Akshant Chooramani | akshantchooramani4@gmail.com', data: '<a href="https://s3.ap-south-1.amazonaws.com/e-conclave/50v/2_5.pdf" target="_blank" download="2_5.pdf">Download</a>'},
     ];
   
   // setup autocomplete function pulling from currencies[] array
