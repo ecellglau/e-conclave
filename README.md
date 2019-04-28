@@ -7,7 +7,7 @@ This website is a portal for the distribution of digital certificates of the eve
 
 ## Usage
 
-- Visit https://nihitjain11.github.io/e-conclave/ 
+- Visit https://ecellglau.github.io/e-conclave/ (previously: https://nihitjain11.github.io/e-conclave/)
 - Select any of the event
 - On the Event page, enter your name/email in the search box given.
 - The search box will automatically suggest with names.
